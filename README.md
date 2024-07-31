@@ -4,15 +4,15 @@
 
 <div align="left">
   <a href="(https://www.linkedin.com/in/estacio-vieira/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35" height="35" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35" height="35" alt="linkedin logo"  style="margin-left:10px;" />
   </a>
   <a href="https://www.instagram.com/estaciodev?igsh=MWdjbmRjYWtheXV5cA==" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="35" height="35" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="35" height="35" alt="instagram logo" style="margin-left:10px;" />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="35" height="35" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="35" height="35" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="35" height="35" alt="discord logo" style="margin-left:10px;" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="35" height="35" alt="gmail logo" style="margin-left:10px;" />
   <a href="https://t.me/EstacioVieira" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="35" height="35" alt="telegram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="35" height="35" alt="telegram logo" style="margin-left:10px;"  />
   </a>
 </div>
 
