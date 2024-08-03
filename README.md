@@ -6,7 +6,7 @@
 <br>
 <h2 align="center" >Contato</h2>
 <div align="center">
-  <a href="(https://www.linkedin.com/in/estacio-vieira/" target="_blank">
+  <a href="https://www.linkedin.com/in/estacio-vieira/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35" height="35" alt="linkedin logo"  style="margin-left:10px;" />
   </a>
 <span> </span>
@@ -16,7 +16,9 @@
   <span> </span>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="35" height="35" alt="discord logo" style="margin-left:10px;" />
   <span> </span>
+  <a href="https://www.linkedin.com/in/estacio-vieira/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="35" height="35" alt="gmail logo" style="margin-left:10px;" />
+  </a>
   <span> </span>
   <a href="https://t.me/EstacioVieira" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="35" height="35" alt="telegram logo" style="margin-left:10px;"  />
