@@ -10,20 +10,19 @@
   <a href="(https://www.linkedin.com/in/estacio-vieira/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35" height="35" alt="linkedin logo"  style="margin-left:10px;" />
   </a>
-  <p> </p>
+<span> </span>
   <a href="https://www.instagram.com/estaciodev?igsh=MWdjbmRjYWtheXV5cA==" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="35" height="35" alt="instagram logo" style="margin-left:10px;" />
   </a>
-  <p> </p>
+  <span> </span>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="35" height="35" alt="discord logo" style="margin-left:10px;" />
-  <p> </p>
+  <span> </span>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="35" height="35" alt="gmail logo" style="margin-left:10px;" />
-  <p> </p>
+  <span> </span>
   <a href="https://t.me/EstacioVieira" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="35" height="35" alt="telegram logo" style="margin-left:10px;"  />
   </a>
 </div>
-###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=estacioFilho&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=estacioFilho&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph"  />
