@@ -1,21 +1,24 @@
-<h3 align="left">Olá, eu sou Estácio🖐️</h3>
+<h3 align="center">Olá, eu sou Estácio🖐️</h3>
 
 <h2 align="center">Sobre mim</h2>
 
-###
 
 <p align="center">👨🏽‍💻Desenvolvedor web.<br>📚Cursando análise e desenvolvimento de sistema.<br>📌"Trabalhe com o que você ama e nunca mais precisará trabalhar."</p>
 
-<h2 align="center" style="display:flex; gap:20px;">Contato</h2>
+<h2 align="center" >Contato</h2>
 <div align="center">
   <a href="(https://www.linkedin.com/in/estacio-vieira/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35" height="35" alt="linkedin logo"  style="margin-left:10px;" />
   </a>
+  <p> </p>
   <a href="https://www.instagram.com/estaciodev?igsh=MWdjbmRjYWtheXV5cA==" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="35" height="35" alt="instagram logo" style="margin-left:10px;" />
   </a>
+  <p> </p>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="35" height="35" alt="discord logo" style="margin-left:10px;" />
+  <p> </p>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="35" height="35" alt="gmail logo" style="margin-left:10px;" />
+  <p> </p>
   <a href="https://t.me/EstacioVieira" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="35" height="35" alt="telegram logo" style="margin-left:10px;"  />
   </a>
