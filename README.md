@@ -2,7 +2,7 @@
 <br>
 <h2 align="center">Sobre mim</h2>
 
-<p align="center">👨🏽‍💻Desenvolvedor web.<br>📚Cursando análise e desenvolvimento de sistema.<br>📌"Trabalhe com o que você ama e nunca mais precisará trabalhar."</p>
+<p align="center">👨🏽‍💻Desenvolvedor.<br>📚Cursando análise e desenvolvimento de sistema.<br>📌"Trabalhe com o que você ama e nunca mais precisará trabalhar."</p>
 <br>
 <h2 align="center" >Contato</h2>
 <div align="center">
